@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|c:\\users\\pc\\documents\\github\\a-tabanl-teknolojiler-ve-uygulamalar-\\webapplication3\\webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\webapplication3\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\webapplication3\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F35B3D45-679D-484F-A875-8271EBD427DC}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication3\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T19:18:52.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication3\\Web.config",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeToolTip": "WebApplication3\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-17T17:48:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm4.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm4.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm4.aspx.cs",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm4.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\WebForm4.aspx.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAUwMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:58:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm4.aspx",
+              "ToolTip": "C:\\Users\\Pc\\Documents\\GitHub\\A-Tabanl-Teknolojiler-ve-Uygulamalar-\\WebApplication3\\WebApplication3\\WebForm4.aspx",
+              "RelativeToolTip": "WebApplication3\\WebForm4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T04:58:50.194Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
